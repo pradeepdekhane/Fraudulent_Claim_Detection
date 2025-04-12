@@ -18,7 +18,6 @@ Based on this assignment, you have to answer the following questions:
 
 The objective is to build a model to classify insurance claims as either fraudulent or legitimate based on historical claim details and customer profiles. By using features such as claim amounts, customer profiles, claim types and approval times, the company aims to predict the claims that are likely to be fraudulent before they are approved.
 
-Great! Here's your **GitHub README.md** content with markdown formatting, section headers, and emojis to enhance readability and structure:
 
 ---
 
